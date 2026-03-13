@@ -52,6 +52,6 @@
 <img src="https://badges.pufler.dev/visits/ityhoang/ityhoang?color=black&logo=github" />
 </p>
 
-[website]: https://www.facebook.com/ittyhoang
+[website]: https://www.facebook.com/ityhoang
 [gmail]: mailto:tyhoang1406@gmail.com
 [soundwise]: https://mysoundwise.com
